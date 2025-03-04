@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I am Luis Ortiz
 
-### 📲 Mobile Developer, specialized in iOS, on road to Full-Stack 
+### 📲 Software Developer, specialized in iOS
 
 ## About me
 
-👨🏻‍💻 I'm an experienced software developer based in Canada 🇨🇦, currently specializing in Mobile iOS development. I am also pursuing a degree in Computer Programming.
+👨🏻‍💻 I'm an experienced software developer based in Canada 🇨🇦, currently specializing in Mobile iOS development.
 
 ## Skills
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## Education
 
-🎓 Currently enrolled as a Computer Programming student in Georgian College, where I am expanding my knowledge and honing my programming skills.
+🎓 Computer Programming diploma (2024), Georgian College, 📍 Toronto, ON. Canada.
 
 👨🏻‍🎓 Bachelor's in Electronics Engineering (2019), Universidad Pontificia Bolivariana. 📍 Medellín, Colombia.
 
